@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-12-10 22:57+0700\n"
+"PO-Revision-Date: 2017-12-10 22:57+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-supersport.php:49
+msgid "Social Menu"
+msgstr ""
+
+#: inc/class-supersport.php:61
+msgid "Featured Homepage"
+msgstr ""
+
+#: inc/class-supersport.php:63 inc/class-supersport.php:73
+msgid ""
+"Appears on Magazine Homepage template only. You can use the Magazine Posts "
+"widgets here."
+msgstr ""
+
+#: inc/class-supersport.php:71
+msgid "Magazine Homepage"
+msgstr ""
+
+#: inc/function-template.php:95
+#, php-format
+msgid "Continue Reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/function-template.php:131
+msgid ""
+"See More Posts <i class=\"fa fa-chevron-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: inc/function-template.php:155
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/function-template.php:224
+msgid "Search ..."
+msgstr ""
+
+#: inc/function-template.php:286
+msgid ""
+"Please go to Appearance &#8594; Widgets and add at least one widget to the "
+"\"Magazine Homepage\" widget area. You can use the Magazine Posts widgets to "
+"set up the theme like the demo website."
+msgstr ""
+
+#: inc/function-template.php:338
+msgid ", "
+msgstr ""
+
+#: inc/function-template.php:406
+msgid " "
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:22
+msgid "TC: Featured Section"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:25
+msgid "Use this widget to custom display style in featured homepage."
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:158
+#: inc/widget/magazine-posts-lists.php:177
+#, php-format
+msgid "View all posts from category %s"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:215
+#: inc/widget/magazine-posts-lists.php:236
+msgid "Title:"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:221
+#: inc/widget/magazine-posts-lists.php:242
+msgid "Category:"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:224
+#: inc/widget/magazine-posts-lists.php:245
+msgid "All Categories"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:238
+msgid "Order Posts:"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:240
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:241
+msgid "Oldest Posts"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:242
+msgid "Random Posts"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:249
+msgid "Display categories"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:256
+#: inc/widget/magazine-posts-lists.php:274
+msgid "Display post date"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:263
+#: inc/widget/magazine-posts-lists.php:267
+msgid "Display post author"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:23
+msgid "TC: Magazine List"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:26
+msgid "Add this widgets to appear this style on magazine template."
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:259
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:281
+msgid "Display post category"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:288
+msgid "Display post tags"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:295
+msgid "Display post comment"
+msgstr ""
